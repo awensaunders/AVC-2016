@@ -22,7 +22,7 @@ All of the fastners and other hardware can be found in the 380pc Actobotics Hard
 
 #ICs and Boards
 - Raspberry Pi Running Raspian
-- 2x RoboClaw Roboclaw 2x7A Motor Controller
+- 2x RoboClaw Roboclaw 2x5A Motor Controller
 - Teensy 3.1 (may be removed if unnecessary)
 - 12V to 5V/3A regulator (gutted from standard cigarette lighter adaptor)
 - Sparkfun Venus GPS with SMA connector (Sparkfun #GPS-11058)
